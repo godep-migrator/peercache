@@ -21,3 +21,16 @@ _testmain.go
 
 *.exe
 *.test
+
+# OS X
+.DS_Store
+.Spotlight-v100
+.Trashes
+*.app
+*.cxx
+
+# Linux
+*.swp
+*.swo
+.*.sw[a-z]
+*.un~
